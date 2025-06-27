@@ -56,3 +56,4 @@ All mood logs are stored in:
 Copy
 Edit
 mood_log.txt
+mood_log.txt is the file where where the previous entry are placed .
