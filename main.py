@@ -48,6 +48,7 @@ def show_history():
             print(file.read())
     except FileNotFoundError:
         print("No mood history yet!")
+        #print no mood history if no past input is given 
 
 def main():
     while True:
