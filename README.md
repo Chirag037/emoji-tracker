@@ -18,9 +18,6 @@ A simple terminal-based Python app that lets you log your daily mood using words
    cd emoji-mood-tracker
 Run the program:
 
-bash
-Copy
-Edit
 python mood_tracker.py
 Choose from the menu:
 
@@ -31,9 +28,7 @@ Choose from the menu:
 3: Exit
 
 ✨ Example Mood Log
-yaml
-Copy
-Edit
+
 2025-06-21 18:42:15 - Happy 😊
 2025-06-22 09:13:02 - Tired 😴
 2025-06-23 20:01:45 - Excited 🤩
@@ -54,10 +49,8 @@ If you enter an unknown mood, it will log it with 🤔.
 🗂 File Output
 All mood logs are stored in:
 
-Copy
-Edit
+
 mood_log.txt
 mood_log.txt is the file where where the previous entry are placed .
 
 
-# this is to update that issue has been solved
