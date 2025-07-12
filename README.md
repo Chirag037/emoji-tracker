@@ -12,7 +12,7 @@ A simple terminal-based Python app that lets you log your daily mood using words
 
 ## 🎮 How to Use
 
-1. Clone or download the repo:
+1. Clone or download the repo:  
    ```bash
    git clone https://github.com/Chirag037/emoji-tracker
    cd emoji-mood-tracker
