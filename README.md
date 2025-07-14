@@ -18,7 +18,7 @@ A simple terminal-based Python app that lets you log your daily mood using words
    cd emoji-mood-tracker
 Run the program:
 
-python mood_tracker.py
+python mood_tracker.py  
 Choose from the menu:
 
 1: Log a new mood
