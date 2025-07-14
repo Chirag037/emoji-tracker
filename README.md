@@ -10,7 +10,7 @@ A simple terminal-based Python app that lets you log your daily mood using words
 - Stores entries in a text file (`mood_log.txt`)
 - View full history of your logged moods
 
-## 🎮 How to Use
+## 🎮 How to Use  
 
 1. Clone or download the repo:  
    ```bash
