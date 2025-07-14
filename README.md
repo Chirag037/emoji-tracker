@@ -5,7 +5,7 @@ A simple terminal-based Python app that lets you log your daily mood using words
 
 ## 🚀 Features
 
-- Log your current mood (e.g., "happy", "sad", or even 😊)
+- Log your current mood (e.g., "happy", "sad", or even 😊)  
 - Automatically records the date and time  
 - Stores entries in a text file (`mood_log.txt`)
 - View full history of your logged moods
