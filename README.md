@@ -21,7 +21,7 @@ Run the program:
 python mood_tracker.py  
 Choose from the menu:
 
-1: Log a new mood
+1: Log a new mood  
 
 2: View mood history
 
