@@ -23,7 +23,7 @@ Choose from the menu:
 
 1: Log a new mood  
 
-2: View mood history
+2: View mood history  
 
 3: Exit
 
